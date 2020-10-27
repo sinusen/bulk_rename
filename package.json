@@ -1,6 +1,6 @@
 {
     "name": "File_rename",
-    "description": "A Node-RED Project",
+    "description": "Bulk rename",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
