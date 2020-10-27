@@ -2,7 +2,9 @@
     "name": "File_rename",
     "description": "Bulk rename",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-fs-ops": "1.5.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
